@@ -21,6 +21,7 @@ See [Resources](https://github.com/hackoregon/hack-university-data-science/tree/
 
 # Schedule
 ### Lesson topics, and recommended exercises for each week.
+Schedule subject to change
 
 
 
