@@ -15,6 +15,11 @@ Students will choose a data set of interest to analyze, or use data sets from Ha
 See [Resources](https://github.com/hackoregon/hack-university-data-science/tree/master/Resources) for a list of potential data sources, python packages to install, and recommended books for the course.
 
 
+### Completion Recognition
+
+Details to be announced.
+
+
 ### Instructor
 [Heidi Perry](www.linkedin.com/in/heidiperryphd)
 
@@ -49,7 +54,7 @@ Schedule subject to change
 1. Describe the graph(s) you created. Identify the explanatory/response or dependent/independent variables. Did you discover any trends, expected or unexpected?
 
 
-## Week 2: Cleaning data (Feb 16)
+## [Week 2](https://github.com/hackoregon/hack-university-data-science/tree/master/Lessons/2_CleaningTransformingData): Cleaning data (Feb 16)
 
 1. In-class activity using IPython notebooks:
     * Cleaning data
