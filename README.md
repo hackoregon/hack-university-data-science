@@ -8,7 +8,7 @@ Learn the fundamentals of data preparation and analysis needed to transform data
 
 ### Course Format
 
-Tuesday evening (6-9pm) lectures will include IPython notebooks for interactive exploration of the weeks' topic. At Sunday workshops (11am-2pm), students have a chance to work together on weekly assignments and receive feedback from the instructor.
+Tuesday evening (6:15-9pm) lectures will include IPython notebooks for interactive exploration of the weeks' topic. At Sunday workshops (11am-2pm), students have a chance to work together on weekly assignments and receive feedback from the instructor.
 
 Students will choose a data set of interest to analyze, or use data sets from Hack Oregon volunteer projects. Throughout the course the student will perform exploratory analysis on the data set, choose a research question, and present the results to receive peer feedback during the final class.
 
