@@ -59,6 +59,13 @@ Choose a dataset from one of the sources below or BYOD.
 * [ImageNet](http://image-net.org/about-overview)
 
 
+## Lists of APIs with Python wrapper
+
+* [Python API](http://www.pythonapi.com/)
+
+* [Python for Beginners](http://www.pythonforbeginners.com/development/list-of-python-apis/)
+
+
 ## Big Data
 
 Beyond the scope of this course, but good to know about:
