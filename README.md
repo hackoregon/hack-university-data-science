@@ -62,16 +62,17 @@ Schedule subject to change
 1. Prepare your data for the exploratory phase of your course project.
 
 
-## Week 3: Math Fundamentals (Feb 23)
+## [Week 3](https://github.com/hackoregon/hack-university-data-science/tree/master/Lessons/3_ExploratoryAnalysis): Exploratory Analysis (Feb 23)
 
 1. In-class activity using IPython notebooks:
-    * Transform data
-    * Estimating derivatives and integrals
+    * Common functions
+    * Transforming data
+    * Exploratory Analysis
 
 1. Continue cleaning your data.
 
 1. Explore your data set. 
-
+    
 1. Normalize variables where necessary
 
 1. Look for non-linear relationships in your data that might be described by a common function, and apply a transformation to create a linear relationship.
@@ -104,11 +105,12 @@ Schedule subject to change
 1. Use linear regression to make a model of at least one variable in your data.
 
 
-## Week 7: Linear Algebra (March 23)
+## Week 7: Linear Algebra and Calculus (March 23)
 
 1. In-class activity using IPython notebooks:
     * Vector and matrix multiplication
     * TF-IDF application
+    * Estimating derivatives and integrals
 
 1. Prepare a 10 minute presentation showing the highlights from your exploratory analysis, and any conclusions you may have from applying statistical inference and/or regression on your data.
 
