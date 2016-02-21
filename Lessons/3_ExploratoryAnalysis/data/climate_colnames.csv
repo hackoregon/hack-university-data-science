@@ -1,0 +1,12 @@
+oldname,newname
+EMXP,max_daily_precip
+TPCP,monthly_precip
+TSNW,monthly_snowfall
+MXSD,max_monthly_snowdepth
+EMNT,min_daily_temp
+EMXT,max_daily_temp
+MMNT,mean_min_monthly_temp
+MMXT,mean_max_monthly_temp
+MNTM,mean_monthly_temp
+DSNW,count_days_with_snow
+TSNW,total_snowfall
