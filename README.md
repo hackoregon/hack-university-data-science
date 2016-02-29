@@ -14,6 +14,8 @@ Students will choose a data set of interest to analyze, or use data sets from Ha
 
 See [Resources](https://github.com/hackoregon/hack-university-data-science/tree/master/Resources) for a list of potential data sources, python packages to install, and recommended books for the course.
 
+[GitHub Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf).
+
 
 ### Completion Recognition
 
