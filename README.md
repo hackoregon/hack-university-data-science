@@ -12,12 +12,12 @@ Tuesday evening (6:15-9pm) lectures will include IPython notebooks for interacti
 
 Students will choose a data set of interest to analyze, or use data sets from Hack Oregon volunteer projects. Throughout the course the student will perform exploratory analysis on the data set, choose a research question, and present the results to receive peer feedback during the final class.
 
-See [Resources](https://github.com/hackoregon/hack-university-data-science/tree/master/Resources) for a list of potential data sources, python packages to install, and recommended books for the course.
+See [Resources](https://github.com/hackoregon/hack-university-data-science/tree/master/Resources) for a list of potential data sources, python packages to install, and recommended books for the course. For help cloning this repository, see the handy [GitHub Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf).
 
 
 ### Completion Recognition
 
-Details to be announced.
+Hack University will issue badges on [Badgr](http://info.badgr.io/) for all students who successfully complete the course by attending a majority of class meetings and presenting a course project at the final meeting. 
 
 
 ### Instructor
