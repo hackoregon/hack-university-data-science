@@ -78,14 +78,14 @@ Schedule subject to change
 1. Look for non-linear relationships in your data that might be described by a common function, and apply a transformation to create a linear relationship.
 
 
-## Week 4: Probability (March 2)
+## [Week 4](https://github.com/hackoregon/hack-university-data-science/tree/master/Lessons/4_Probability):Probability (March 1)
 
 1. In-class activity using IPython notebooks:
     * Simulations of stochastic processes, visualizing distributions
 
 1. Create histograms of random variables in your data set.
-    * Describe the shape of the distribution (skew/symmetry, long-tail).
-    * Calculate mean, median, standard deviation.
+    * Describe the shape of the distribution (e.g. skew and symmetry).
+    * Calculate mean, median, and standard deviation of the variables.
 
 
 ## Week 5: Statistical Inference (March 9)
