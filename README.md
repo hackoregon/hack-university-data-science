@@ -88,7 +88,7 @@ Schedule subject to change
     * Calculate mean, median, and standard deviation of the variables.
 
 
-## Week 5: Statistical Inference (March 8)
+## [Week 5](https://github.com/hackoregon/hack-university-data-science/tree/master/Lessons/5_StatisticalInference): Statistical Inference (March 8)
 
 1. In-class activity using IPython notebooks:
     * Hypothesis tests
