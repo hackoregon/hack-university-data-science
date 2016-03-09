@@ -78,17 +78,17 @@ Schedule subject to change
 1. Look for non-linear relationships in your data that might be described by a common function, and apply a transformation to create a linear relationship.
 
 
-## Week 4: Probability (March 2)
+## [Week 4](https://github.com/hackoregon/hack-university-data-science/tree/master/Lessons/4_Probability): Probability (March 1)
 
 1. In-class activity using IPython notebooks:
     * Simulations of stochastic processes, visualizing distributions
 
 1. Create histograms of random variables in your data set.
-    * Describe the shape of the distribution (skew/symmetry, long-tail).
-    * Calculate mean, median, standard deviation.
+    * Describe the shape of the distribution (e.g. skew and symmetry).
+    * Calculate mean, median, and standard deviation of the variables.
 
 
-## Week 5: Statistical Inference (March 9)
+## [Week 5](https://github.com/hackoregon/hack-university-data-science/tree/master/Lessons/5_StatisticalInference): Statistical Inference (March 8)
 
 1. In-class activity using IPython notebooks:
     * Hypothesis tests
@@ -97,7 +97,7 @@ Schedule subject to change
     * What population does this generalize to?
 
 
-## Week 6: Linear Regression (March 16)
+## Week 6: Linear Regression (March 15)
 
 1. In-class activity using IPython notebooks:
     * Regressions
@@ -105,7 +105,7 @@ Schedule subject to change
 1. Use linear regression to make a model of at least one variable in your data.
 
 
-## Week 7: Linear Algebra and Calculus (March 23)
+## Week 7: Linear Algebra and Calculus (March 22)
 
 1. In-class activity using IPython notebooks:
     * Vector and matrix multiplication
@@ -115,7 +115,7 @@ Schedule subject to change
 1. Prepare a 10 minute presentation showing the highlights from your exploratory analysis, and any conclusions you may have from applying statistical inference and/or regression on your data.
 
 
-## Week 8: Present Projects (March 30)
+## Week 8: Present Projects (March 29)
 
 1. In-class activity:
     * Present your exploratory findings, and results if you have them.
