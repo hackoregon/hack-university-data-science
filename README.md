@@ -91,16 +91,17 @@ Schedule subject to change
 ## [Week 5](https://github.com/hackoregon/hack-university-data-science/tree/master/Lessons/5_StatisticalInference): Statistical Inference (March 8)
 
 1. In-class activity using IPython notebooks:
-    * Hypothesis tests
+    * Statistical Inference
+    * Inference for Numerical Data
 
 1. Apply a hypothesis test in your data set. 
     * What population does this generalize to?
 
 
-## Week 6: Linear Regression (March 15)
+## [Week 6](https://github.com/hackoregon/hack-university-data-science/tree/master/Lessons/6_LinearRegression): Linear Regression (March 15)
 
 1. In-class activity using IPython notebooks:
-    * Regressions
+    * Linear Regression
 
 1. Use linear regression to make a model of at least one variable in your data.
 
