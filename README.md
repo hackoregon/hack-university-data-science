@@ -106,7 +106,7 @@ Schedule subject to change
 1. Use linear regression to make a model of at least one variable in your data.
 
 
-## Week 7: Linear Algebra and Calculus (March 22)
+## [Week 7](https://github.com/hackoregon/hack-university-data-science/tree/master/Lessons/7_LinearAlgebra): Linear Algebra and Calculus (March 22)
 
 1. In-class activity using IPython notebooks:
     * Vector and matrix multiplication
