@@ -115,7 +115,7 @@ Schedule subject to change
 1. Prepare a 10 minute presentation showing the highlights from your exploratory analysis, and any conclusions you may have from applying statistical inference and/or regression on your data.
 
 
-## Week 8: Present Projects (March 29)
+## [Week 8](https://github.com/hackoregon/hack-university-data-science/tree/master/Lessons/8_CourseWrapup): Present Projects (March 29)
 
 1. In-class activity:
     * Present your exploratory findings, and results if you have them.
