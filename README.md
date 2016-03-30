@@ -1,8 +1,8 @@
-# hack-university-data-science
+#hack-university-data-science
 Hack University's [Data Science course](http://www.hackoregon.org/database-cohort), sponsored by [Hack Oregon](http://hackoregon.org)
 
 
-### Course Descriptoin
+### Course Description
 Learn the fundamentals of data preparation and analysis needed to transform data into insight. This course will introduce a broad range of mathematics fundamentals used in data science and machine learning, including probability distributions, statistics, regression, linear algebra, and calculus, with a focus on practical application to real-world data sets. Bring your own data set or contribute to a Hack Oregon project; students will apply methods to a project of their choosing.
 
 
@@ -122,3 +122,5 @@ Schedule subject to change
     * Give feedback to your class-mates.
 
 1. Implement any suggestions received at your presentation.
+
+## [Student Projects](https://github.com/hackoregon/hack-university-data-science/tree/master/Projects)
