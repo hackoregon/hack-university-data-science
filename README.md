@@ -123,4 +123,4 @@ Schedule subject to change
 
 1. Implement any suggestions received at your presentation.
 
-## [Student Projects](https://github.com/hackoregon/hack-university-data-science/tree/master/Projects)
+# [Student Projects](https://github.com/hackoregon/hack-university-data-science/tree/master/Projects)
