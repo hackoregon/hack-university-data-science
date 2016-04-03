@@ -36,7 +36,15 @@
       return _.parseInt(settings.currentYear);
     },
     setCurrentYear: function(year) {
-      settings.currentYear = year;
+      var min = _.min(settings.years);
+      var max = _.max(settings.years);
+      if (year < min) {
+        settings.currentYear = min;
+      } else if (year > max) {
+        settings.currentYear = max;
+      } else {
+        settings.currentYear = year;
+      }
       yearsListView.render();
       chartView.render();
     },
