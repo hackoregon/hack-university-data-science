@@ -126,4 +126,5 @@ Schedule subject to change
 # [Student Projects](https://github.com/hackoregon/hack-university-data-science/tree/master/Projects)
 
 [Portland Crime by Neighborhood, 2004-1014](https://github.com/hackoregon/hack-university-data-science/tree/master/Projects/nkanderson-pdxcrime), by [Nicole Anderson](https://github.com/nicolekanderson) 
+
 Crime incident data from the City of Portland Police Bureau, with a typical record including detailed time and location information. The data has been aggregated over time by neighborhood, and a simple d3 bar chart is included in the root of the project at index.html
