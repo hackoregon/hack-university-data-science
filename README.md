@@ -3,22 +3,46 @@ Hack University's [Data Science course](http://www.hackoregon.org/database-cohor
 
 
 ### Course Descriptoin
-Learn the fundamentals of data preparation and analysis needed to transform data into insight. This course will introduce a broad range of mathematics fundamentals used in data science and machine learning, including probability distributions, statistics, regression, linear algebra, and calculus, with a focus on practical application to real-world data sets. Bring your own data set or contribute to a Hack Oregon project; students will apply methods to a project of their choosing.
+
+#### DESCRIPTION
+
+Learn the fundamentals of data preparation and analysis needed to transform data into insight!
+
+The course will start with an introduction to core mathematical principles used in data science including probability distributions, statistics, regression, linear algebra, and calculus, as well as responsible data practices dealing with research design, question formulation, and understanding cognitive biases. From there we’ll build upon our foundation to dive into real world data sets by applying data science reasoning techniques to uncover, enrich, and answer questions focusing on finding patterns and meaning within the data. Time permitting we’ll also cover using data for persuasion and action, making decisions with data, and compelling storytelling with data.
+
+#### WHY PYTHON?
+
+Besides the regular arguments for Python, like its speedy learning curve, easy to read syntax, and wide adoption in the Data Science industry, we chose to teach Data Science in Python because of it's ability to integrate easily with other technologies, which we've found is much more useful than stand alone analysis.
+
+#### HOW DO I KNOW I'M READY?
+
+* Proficiency in Python
+* Strong understanding of Algebra and Familiarity with Statistics
+* Experience with Pandas is a bonus!
+
+#### Course Outcomes
+
+* Formulate a **good** data question (see lecture 1).
+* Take a real-world data set and prepare it for analysis.
+* Identify trends and relationships between variables in the data set.
+* Build and intrepret a simple regression model. This means understanding what the model can predict, and the limitations of the model.
+* Gain project experience by contributing to a Hack Oregon project.
 
 
 ### Course Format
 
-Tuesday evening (6:15-9pm) lectures will include IPython notebooks for interactive exploration of the weeks' topic. At Sunday workshops (11am-2pm), students have a chance to work together on weekly assignments and receive feedback from the instructor.
+Class sessions run 6:00 - 9:00pm on Tuesdays and Thursdays from October 11th to October 13 to December 8 (no class November 22 and 24 for Thanksgiving break). 
 
-Students will choose a data set of interest to analyze, or use data sets from Hack Oregon volunteer projects. Throughout the course the student will perform exploratory analysis on the data set, choose a research question, and present the results to receive peer feedback during the final class.
+The first 11 sessions will start with a lecture (approximately one hour), followed by time to work on exercises related to the lecture topic. Exercises will be provided in [Jupyter](http://jupyter.org/) notebooks. See below for lecture topics.
 
-See [Resources](https://github.com/hackoregon/hack-university-data-science/tree/master/Resources) for a list of potential data sources, python packages to install, and recommended books for the course. For help cloning this repository, see the handy [GitHub Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf).
+At the beginning of week 5, students are expected to have a data set and start working on their course project. Each student will be expected to present three times: 1) Present your project proposal and the data question that will guide your exploratory analysis; 2) Present exploratory analysis and an update to the data question your analysis will answer; 3) Final presentation. Each of these presentations will have time for question and answer with your fellow students and instructor. You will be working in teams, and may present together, but each student should present their own work. Two to three class sessions will be devoted to working on the projects. 
 
 
 ### Completion Recognition
 
-Hack University will issue badges on [Badgr](http://info.badgr.io/) for all students who successfully complete the course by attending a majority of class meetings and presenting a course project at the final meeting. 
-
+Hack University will issue badges on [Badgr](http://info.badgr.io/) for all students who successfully complete the course. Successfull completion requires:
+* Attendance: attend 75% (12) of the class sessions. To be counted as present, you must attend the lecture and have the instructor check off your in-class work.
+* Project presentations (proposal, exploratory analysis, and final).
 
 ### Instructor
 [Heidi Perry](www.linkedin.com/in/heidiperryphd)
@@ -29,96 +53,19 @@ Hack University will issue badges on [Badgr](http://info.badgr.io/) for all stud
 Schedule subject to change
 
 
-
-## [Week 1](https://github.com/hackoregon/hack-university-data-science/tree/master/Lessons/1_IntroDataAndScience): Intro to Data and Science (Feb 9)
-
-1. In-class activity using IPython notebooks:
-    * Make graphs
-    * Load data
-
-1. What question do you want to answer in your course project? 
-
-1. Write out your your expectations about the question:
-    * Is it answerable?
-    * Has someone already answered it?
-    * Is the data needed to answer it available?
-
-1. Based on what you found, ask a more narrow question that will set the path for your course project. It should be answerable with data that you can access.
-
-1. Find a data set that will answer some form of your question, and load it into a pandas dataframe.
-
-1. Describe the data fields in your data set: variable name and type.
-
-1. Create at least one graph using your data. 
-
-1. Describe the graph(s) you created. Identify the explanatory/response or dependent/independent variables. Did you discover any trends, expected or unexpected?
-
-
-## [Week 2](https://github.com/hackoregon/hack-university-data-science/tree/master/Lessons/2_CleaningTransformingData): Cleaning data (Feb 16)
-
-1. In-class activity using IPython notebooks:
-    * Cleaning data
-
-1. Prepare your data for the exploratory phase of your course project.
-
-
-## [Week 3](https://github.com/hackoregon/hack-university-data-science/tree/master/Lessons/3_ExploratoryAnalysis): Exploratory Analysis (Feb 23)
-
-1. In-class activity using IPython notebooks:
-    * Common functions
-    * Transforming data
-    * Exploratory Analysis
-
-1. Continue cleaning your data.
-
-1. Explore your data set. 
-    
-1. Normalize variables where necessary
-
-1. Look for non-linear relationships in your data that might be described by a common function, and apply a transformation to create a linear relationship.
-
-
-## [Week 4](https://github.com/hackoregon/hack-university-data-science/tree/master/Lessons/4_Probability): Probability (March 1)
-
-1. In-class activity using IPython notebooks:
-    * Simulations of stochastic processes, visualizing distributions
-
-1. Create histograms of random variables in your data set.
-    * Describe the shape of the distribution (e.g. skew and symmetry).
-    * Calculate mean, median, and standard deviation of the variables.
-
-
-## [Week 5](https://github.com/hackoregon/hack-university-data-science/tree/master/Lessons/5_StatisticalInference): Statistical Inference (March 8)
-
-1. In-class activity using IPython notebooks:
-    * Statistical Inference
-    * Inference for Numerical Data
-
-1. Apply a hypothesis test in your data set. 
-    * What population does this generalize to?
-
-
-## [Week 6](https://github.com/hackoregon/hack-university-data-science/tree/master/Lessons/6_LinearRegression): Linear Regression (March 15)
-
-1. In-class activity using IPython notebooks:
-    * Linear Regression
-
-1. Use linear regression to make a model of at least one variable in your data.
-
-
-## [Week 7](https://github.com/hackoregon/hack-university-data-science/tree/master/Lessons/7_LinearAlgebra): Vectors, Matrices, and Gradient Descent (March 22)
-
-1. In-class activity using IPython notebooks:
-    * Matrix multiplication
-    * Gradient descent
-
-1. Prepare a 10 minute presentation showing the highlights from your exploratory analysis, and any conclusions you may have from applying statistical inference and/or regression on your data.
-
-
-## Week 8: Present Projects (March 29)
-
-1. In-class activity:
-    * Present your exploratory findings, and results if you have them.
-    * Give feedback to your class-mates.
-
-1. Implement any suggestions received at your presentation.
+## Class 1: Intro to Data and Science (October 11)
+## Class 2: Probability Part 1 (October 13)
+## Class 3: Probability Part 2 (October 18)
+## Class 4: Statistical Inference Part 1 (October 20)
+## Class 5: Statistical Inference Part 2 (October 25)
+## Class 6: Statistical Inference Part 3 (October 27)
+## Class 7: Linear Regression Part 1 (November 1)
+## Class 8: Linear Regression Part 1 (November 3)
+## Class 9: Natural Language Processing - Hobson Lane, Guest Lecturer (November 8)
+## Class 10: Project Propostals; Cleaning Data (November 10)
+## Class 11: Exploratory Analysis; Start Projects (November 15)
+## Class 12: Present Exploratory Analysis (November 17)
+## Class 13: Project Work Day (November 29)
+## Class 14: Project Work Day (December 1)
+## Class 15: Project Presentation and Discussion (December 6)
+## Class 15: Project Presentation and Discussion (December 8)
