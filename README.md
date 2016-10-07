@@ -2,7 +2,7 @@
 Hack University's [Data Science course](http://www.hackoregon.org/database-cohort), sponsored by [Hack Oregon](http://hackoregon.org)
 
 
-# Course Descriptoin
+# Course Description
 
 ### Description
 
@@ -14,7 +14,7 @@ The course will start with an introduction to core mathematical principles used 
 
 Besides the regular arguments for Python, like its speedy learning curve, easy to read syntax, and wide adoption in the Data Science industry, we chose to teach Data Science in Python because of it's ability to integrate easily with other technologies, which we've found is much more useful than stand alone analysis.
 
-### How do i know i'm ready?
+### How do I know I'm ready?
 
 * Proficiency in Python
 * Strong understanding of Algebra and Familiarity with Statistics
@@ -25,7 +25,7 @@ Besides the regular arguments for Python, like its speedy learning curve, easy t
 * Formulate a **good** data question (see lecture 1).
 * Take a real-world data set and prepare it for analysis.
 * Identify trends and relationships between variables in the data set.
-* Build and intrepret a simple regression model. This means understanding what the model can predict, and the limitations of the model.
+* Build and interpret a simple regression model. This means understanding what the model can predict, and the limitations of the model.
 * Gain project experience by contributing to a Hack Oregon project.
 
 
@@ -39,17 +39,19 @@ At the beginning of week 5, students are expected to have a data set and start w
 
 ## Technology
 
-[Python 3](https://github.com/hackoregon/hack-university-data-science/tree/master/Resources)
+[Python 3](https://docs.python.org/3/index.html) - See [Resources/PythonPackages.md](https://github.com/hackoregon/hack-university-data-science/tree/master/Resources/PythonPackages.md) for more information about what exactly to install.
 
-[Git](https://git-scm.com/downloads)
+[Git](https://git-scm.com/downloads) - Install Git by downloading the installer for your OS, and create an account on [GitHub account](https://github.com/).
 
-[GitHub account](https://github.com/)
+[Slack](https://slack.com/) - You should have received an invitation to join the Hack University Slack team. Make sure to join the data-science channel. This will be our main avenue of communication for the class.
 
 ## Completion Recognition
 
-Hack University will issue badges on [Badgr](http://info.badgr.io/) for all students who successfully complete the course. Successfull completion requires:
+Hack University will issue badges on [Badgr](http://info.badgr.io/) for all students who successfully complete the course. Successful completion requires:
 * Attendance: attend 75% (12) of the class sessions. To be counted as present, you must attend the lecture and/or presentations and have the instructor check off your in-class work if you leave early.
-* Project presentations (proposal, exploratory analysis, and final).
+* Three presentations on your project (proposal, exploratory analysis, and final). If you have to miss a presentation day, you must contact the instructor to arrange for your presentation to be rescheduled.
+
+
 
 ## Instructor
 [Heidi Perry](www.linkedin.com/in/heidiperryphd)
@@ -95,10 +97,10 @@ Presentation 2: Exploratory Analysis
 ## Week 7: Project Work Days (November 29, December 1)
 
 ## Week 8: Project Presentation and Discussion (December 6 & 8)
-Presentation 3: Final presentation
+Presentation 3: Complete Project Presentation
 
     * 10 minutes
-    * Full presentation: data, question, model, results
+    * Complete project: data, question, model, results
     * Prepare for Q&A from the class, and be prepared to take suggestions to improve your project.
     * Give feedback to your class mates.
     * Upload your project to GitHub repository.
