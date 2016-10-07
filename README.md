@@ -58,7 +58,7 @@ Hack University will issue badges on [Badgr](http://info.badgr.io/) for all stud
 
 
 # Schedule
-### Lesson topics, and recommended exercises for each week.
+### Lesson topics, recommended reading, and exercises for each week.
 Schedule subject to change. Materials added each week.
 
 
