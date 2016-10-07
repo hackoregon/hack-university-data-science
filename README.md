@@ -1,5 +1,5 @@
 # hack-university-data-science
-Hack University's [Data Science course](http://www.hackoregon.org/database-cohort), sponsored by [Hack Oregon](http://hackoregon.org)
+Hack University's [Data Science course](http://www.hackoregon.org/intermediate), sponsored by [Hack Oregon](http://hackoregon.org)
 
 # Syllabus
 ## Course Description
@@ -54,7 +54,7 @@ Hack University will issue badges on [Badgr](http://info.badgr.io/) for all stud
 
 
 ## Instructor
-[Heidi Perry](www.linkedin.com/in/heidiperryphd)
+[Heidi Perry](https://www.linkedin.com/in/heidiperryphd)
 
 
 # Schedule
