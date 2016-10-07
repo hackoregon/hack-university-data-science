@@ -96,6 +96,8 @@ Presentation 2: Exploratory Analysis
 
 ## Week 7: Project Work Days (November 29, December 1)
 
+We will have stand-up style check-ins at the beginning of the project work days.
+
 ## Week 8: Project Presentation and Discussion (December 6 & 8)
 Presentation 3: Complete Project Presentation
 
