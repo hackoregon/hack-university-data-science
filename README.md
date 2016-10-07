@@ -83,9 +83,9 @@ Presentation 1: Project Proposals
     * Q&A/discussion: answer questions from the class (and ask questions!)
 
 ## Week 6: Exploratory Analysis; Start Projects (November 15 & 17)
-Tuesday: Lecture, start working on your projects
+Tuesday: Lecture - Principles and tools of exploratory analysis, start working on your projects
 
-Thursday: Time to work on analysis, then present
+Thursday: Time to work on analysis, then present last half of class.
 
 Presentation 2: Exploratory Analysis
 
@@ -94,7 +94,7 @@ Presentation 2: Exploratory Analysis
     * Are you still working on your proposed data question, or after the exploratory analysis do you have a new question?
     * Q&A/discussion: answer questions from the class (and ask questions!)
 
-## Week 7-a: K-means clustering (November 22)
+## Week 7-a: K-means Clustering (November 22)
 
 ## Week 7-b: Introduction to Principal Component Analysis (November 24)
 
