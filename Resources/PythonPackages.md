@@ -1,7 +1,7 @@
 
 # Python distribution
 
-You will need to install an integrated Python distribution, including packages numpy, matplotlib, and pandas, as well as iPython with notebook. I prefer [Anaconda](https://www.continuum.io/downloads), but [Enthought Canopy](https://www.enthought.com/products/canopy/) should also work.
+You will need to install an integrated Python distribution, including packages numpy, matplotlib, and pandas, as well as iPython with notebook. I prefer [Anaconda](https://www.continuum.io/downloads), but [Enthought Canopy](https://www.enthought.com/products/canopy/) should also work if you already have that installed. Make sure to choose Python **3**.
 
 
 # Packages
