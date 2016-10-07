@@ -1,8 +1,8 @@
 # hack-university-data-science
 Hack University's [Data Science course](http://www.hackoregon.org/database-cohort), sponsored by [Hack Oregon](http://hackoregon.org)
 
-
-# Course Description
+# Syllaubs
+## Course Description
 
 ### Description
 
@@ -37,11 +37,11 @@ Classes in the first five weeks will start with a lecture (approximately one hou
 
 At the beginning of week 5, students are expected to have a data set and start working on their course project. Each student will be expected to present three times: 1) present your project proposal and the data question that will guide your exploratory analysis; 2) present exploratory analysis and an update to the data question your analysis will answer; 3) final presentation. Each of these presentations will have time for question and answer with your fellow students and instructor. You will be working in teams, and may present together, but each student should present their own work. At least two class sessions will be devoted to working on the projects. 
 
-## Technology
+## Required Tools and Accounts
 
 [Python 3](https://docs.python.org/3/index.html) - See [Resources/PythonPackages.md](https://github.com/hackoregon/hack-university-data-science/tree/master/Resources/PythonPackages.md) for more information about what exactly to install.
 
-[Git](https://git-scm.com/downloads) - Install Git by downloading the installer for your OS, and create an account on [GitHub account](https://github.com/).
+[Git](https://git-scm.com/downloads) - Install Git by downloading the installer for your OS, and create an account on [GitHub](https://github.com/).
 
 [Slack](https://slack.com/) - You should have received an invitation to join the Hack University Slack team. Make sure to join the data-science channel. This will be our main avenue of communication for the class.
 
