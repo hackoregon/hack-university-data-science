@@ -35,7 +35,7 @@ Class sessions run 6:00-9:00pm on Tuesdays and Thursdays from October 11 to Dece
 
 Classes in the first five weeks will start with a lecture (approximately one hour), followed by time to work on exercises related to the lecture topic. Exercises will be provided in [Jupyter](http://jupyter.org/) notebooks. See below for lecture topics.
 
-At the beginning of week 5, students are expected to have a data set and start working on their course project. Each student will be expected to present three times: 1) present your project proposal and the data question that will guide your exploratory analysis; 2) present exploratory analysis and an update to the data question your analysis will answer; 3) final presentation. Each of these presentations will have time for question and answer with your fellow students and instructor. You will be working in teams, and may present together, but each student should present their own work. At least two class sessions will be devoted to working on the projects. 
+At the beginning of week 5, students are expected to have a data set and start working on their course project. Each student will be expected to present three times: 1) present your project proposal and the data question that will guide your exploratory analysis; 2) present exploratory analysis and an update to the data question your analysis will answer; 3) final presentation. Each of these presentations will have time for question and answer with your fellow students and instructor. You will be working in teams, and may present together, but each student should present their own work. In-class independent work time for weeks 5-8 will be dedicated to the course project.
 
 ## Required Tools and Accounts
 
@@ -94,9 +94,10 @@ Presentation 2: Exploratory Analysis
     * Are you still working on your proposed data question, or after the exploratory analysis do you have a new question?
     * Q&A/discussion: answer questions from the class (and ask questions!)
 
-## Week 7: Project Work Days (November 29, December 1)
+## Week 7-a: K-means clustering (November 22)
 
-We will have stand-up style check-ins at the beginning of the project work days.
+## Week 7-b: Introduction to Principal Component Analysis (November 24)
+
 
 ## Week 8: Project Presentation and Discussion (December 6 & 8)
 Presentation 3: Complete Project Presentation
