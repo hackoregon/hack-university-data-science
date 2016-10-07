@@ -1,15 +1,10 @@
-#hack-university-data-science
+# hack-university-data-science
 Hack University's [Data Science course](http://www.hackoregon.org/database-cohort), sponsored by [Hack Oregon](http://hackoregon.org)
 
 # Syllabus
 ## Course Description
 
-<<<<<<< HEAD:Archive/2016-winter/README.md
-### Course Description
-Learn the fundamentals of data preparation and analysis needed to transform data into insight. This course will introduce a broad range of mathematics fundamentals used in data science and machine learning, including probability distributions, statistics, regression, linear algebra, and calculus, with a focus on practical application to real-world data sets. Bring your own data set or contribute to a Hack Oregon project; students will apply methods to a project of their choosing.
-=======
 ### Description
->>>>>>> 64b7e92a75fc312ca6081a6fddbd0a0fd15bfc33:README.md
 
 Learn the fundamentals of data preparation and analysis needed to transform data into insight!
 
@@ -103,26 +98,12 @@ Presentation 2: Exploratory Analysis
 
 ## Week 7-b: Introduction to Principal Component Analysis (November 24)
 
-<<<<<<< HEAD:Archive/2016-winter/README.md
-## [Week 8](https://github.com/hackoregon/hack-university-data-science/tree/master/Lessons/8_CourseWrapup): Present Projects (March 29)
-=======
->>>>>>> 64b7e92a75fc312ca6081a6fddbd0a0fd15bfc33:README.md
 
 ## Week 8: Project Presentation and Discussion (December 6 & 8)
 Presentation 3: Complete Project Presentation
 
-<<<<<<< HEAD:Archive/2016-winter/README.md
-1. Implement any suggestions received at your presentation.
-
-# [Student Projects](https://github.com/hackoregon/hack-university-data-science/tree/master/Projects)
-
-[Portland Crime by Neighborhood, 2004-1014](https://github.com/hackoregon/hack-university-data-science/tree/master/Projects/nkanderson-pdxcrime), by [Nicole Anderson](https://github.com/nicolekanderson) 
-
-Crime incident data from the City of Portland Police Bureau, with a typical record including detailed time and location information. The data has been aggregated over time by neighborhood, and a simple d3 bar chart is included in the root of the project at index.html
-=======
     * 10 minutes
     * Complete project: data, question, model, results
     * Prepare for Q&A from the class, and be prepared to take suggestions to improve your project.
     * Give feedback to your class mates.
     * Upload your project to GitHub repository.
->>>>>>> 64b7e92a75fc312ca6081a6fddbd0a0fd15bfc33:README.md
