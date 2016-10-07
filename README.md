@@ -55,9 +55,7 @@ Schedule subject to change. Materials added each week.
 
 ## Week 1-a: Intro to Data and Science (October 11)
 
-## Week 1-b: Probability Part 1 (October 13)
-
-## Week 2-a: Probability Part 2 (October 18)
+## Week 1-b and 2-a: Probability (October 13 & 18)
 
 ## Weeks 2-3: Statistical Inference (October 20, 25, & November 1))
 
@@ -67,6 +65,7 @@ Schedule subject to change. Materials added each week.
 
 ## Week 5-b: Project Proposals; Cleaning Data (November 10)
 Presentation 1: Project Proposals
+
     * 2-5 minutes
     * Which Hack Oregon Project?
     * A brief summary of the data.
@@ -76,8 +75,11 @@ Presentation 1: Project Proposals
 
 ## Week 6: Exploratory Analysis; Start Projects (November 15 & 17)
 Tuesday: Lecture, start working on your projects
+
 Thursday: Time to work on analysis, then present
+
 Presentation 2: Exploratory Analysis
+
     * 5 minutes
     * Show data visualization and explain what you learned from it.
     * Are you still working on your proposed data question, or after the exploratory analysis do you have a new question?
@@ -87,6 +89,7 @@ Presentation 2: Exploratory Analysis
 
 ## Week 8: Project Presentation and Discussion (December 6 & 8)
 Presentation 3: Final presentation
+
     * 10 minutes
     * Full presentation: data, question, model, results
     * Prepare for Q&A from the class, and be prepared to take suggestions to improve your project.
