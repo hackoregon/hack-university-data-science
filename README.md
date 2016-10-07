@@ -94,9 +94,9 @@ Presentation 2: Exploratory Analysis
     * Are you still working on your proposed data question, or after the exploratory analysis do you have a new question?
     * Q&A/discussion: answer questions from the class (and ask questions!)
 
-## Week 7-a: K-means Clustering (November 22)
+## Week 7-a: K-means Clustering (November 29)
 
-## Week 7-b: Introduction to Principal Component Analysis (November 24)
+## Week 7-b: Introduction to Principal Component Analysis (December 1)
 
 
 ## Week 8: Project Presentation and Discussion (December 6 & 8)
