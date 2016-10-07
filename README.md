@@ -68,7 +68,7 @@ Schedule subject to change. Materials added each week.
 
 ## Week 4: Linear Regression (November 1 & 3)
 
-## Week 5-a: Natural Language Processing - Hobson Lane, Guest Lecturer (November 8)
+## Week 5-a: Natural Language Processing - Guest Lecturer (November 8)
 
 ## Week 5-b: Project Proposals; Cleaning Data (November 10)
 Presentation 1: Project Proposals
