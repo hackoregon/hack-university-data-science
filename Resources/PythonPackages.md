@@ -6,7 +6,7 @@ You will need to install an integrated Python distribution, including packages n
 
 # Packages
 
-A variety of Python-based data analysis tools are listed at [PyData](http://pydata.org/downloads/). 
+A variety of Python-based data analysis tools are listed at [PyData](http://pydata.org/downloads.html). 
 
 For this class install the following:
 * [statsmodels](http://statsmodels.sourceforge.net/): `pip install statsmodels`
