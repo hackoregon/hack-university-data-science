@@ -108,6 +108,7 @@ __Exercise__: Lesson3\_LoadData.ipynb
 ## [Class 4](Lessons/4_Probability): Probability Part 2 (October 18)
 __Lecture__:
 * Central Limit Theorem
+* Assessing the normality of a distribution
 * Correlation
 * Bayes' Theorem
 
