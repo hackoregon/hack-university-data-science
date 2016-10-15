@@ -3,7 +3,7 @@
 ### Git and GitHub
 
 * [Git](https://git-scm.com/doc) - source code management 
-* [GitHub](https://help.github.com/) - code hosting platform ([syncing a fork](https://help.github.com/articles/syncing-a-fork/)
+* [GitHub](https://help.github.com/) - code hosting platform ([syncing a fork](https://help.github.com/articles/syncing-a-fork/))
 
 
 ### SciPy
