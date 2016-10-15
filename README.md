@@ -104,9 +104,9 @@ __Lecture__:
 * Central Limit Theorem
 * Correlation
 * Bayes' Theorem
-* Check if a distribution is nearly normal
 
-__Exercie__: Lesson4\_Distributions.ipynb
+__Exercise__: Lesson4\_Distributions.ipynb
+* Assess the normality of a data set
 
 ## Week 3: Statistical Inference (October 20, 25, & November 1)
 
