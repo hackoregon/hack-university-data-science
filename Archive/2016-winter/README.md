@@ -30,7 +30,7 @@ Schedule subject to change
 
 
 
-## [Week 1](https://github.com/hackoregon/hack-university-data-science/tree/master/Lessons/1_IntroDataAndScience): Intro to Data and Science (Feb 9)
+## [Week 1](Lessons/1_IntroDataAndScience): Intro to Data and Science (Feb 9)
 
 1. In-class activity using IPython notebooks:
     * Make graphs
@@ -54,7 +54,7 @@ Schedule subject to change
 1. Describe the graph(s) you created. Identify the explanatory/response or dependent/independent variables. Did you discover any trends, expected or unexpected?
 
 
-## [Week 2](https://github.com/hackoregon/hack-university-data-science/tree/master/Lessons/2_CleaningTransformingData): Cleaning data (Feb 16)
+## [Week 2](Lessons/2_CleaningTransformingData): Cleaning data (Feb 16)
 
 1. In-class activity using IPython notebooks:
     * Cleaning data
@@ -62,7 +62,7 @@ Schedule subject to change
 1. Prepare your data for the exploratory phase of your course project.
 
 
-## [Week 3](https://github.com/hackoregon/hack-university-data-science/tree/master/Lessons/3_ExploratoryAnalysis): Exploratory Analysis (Feb 23)
+## [Week 3](Lessons/3_ExploratoryAnalysis): Exploratory Analysis (Feb 23)
 
 1. In-class activity using IPython notebooks:
     * Common functions
@@ -78,7 +78,7 @@ Schedule subject to change
 1. Look for non-linear relationships in your data that might be described by a common function, and apply a transformation to create a linear relationship.
 
 
-## [Week 4](https://github.com/hackoregon/hack-university-data-science/tree/master/Lessons/4_Probability): Probability (March 1)
+## [Week 4](Lessons/4_Probability): Probability (March 1)
 
 1. In-class activity using IPython notebooks:
     * Simulations of stochastic processes, visualizing distributions
@@ -88,7 +88,7 @@ Schedule subject to change
     * Calculate mean, median, and standard deviation of the variables.
 
 
-## [Week 5](https://github.com/hackoregon/hack-university-data-science/tree/master/Lessons/5_StatisticalInference): Statistical Inference (March 8)
+## [Week 5](Lessons/5_StatisticalInference): Statistical Inference (March 8)
 
 1. In-class activity using IPython notebooks:
     * Statistical Inference
@@ -98,7 +98,7 @@ Schedule subject to change
     * What population does this generalize to?
 
 
-## [Week 6](https://github.com/hackoregon/hack-university-data-science/tree/master/Lessons/6_LinearRegression): Linear Regression (March 15)
+## [Week 6](Lessons/6_LinearRegression): Linear Regression (March 15)
 
 1. In-class activity using IPython notebooks:
     * Linear Regression
