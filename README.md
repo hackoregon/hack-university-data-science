@@ -95,6 +95,12 @@ __Exercise__: Lesson2\_HotHands.ipynb
 
 ## [Class 3](Lessons/3_Tools): Tools (October 18)
 
+__Lecture__: 
+* Overview of python packages numpy and pandas
+* IPython and Jupyter notebook
+* Source code management work flow for this course
+* Developing reproducible analysis
+
 __Exercise__: Lesson3\_LoadData.ipynb
 * Learn the basic functionality of a pandas DataFrame - read data from a csv file, select subsets of the data, plot the data.
 
