@@ -63,6 +63,7 @@ Schedule subject to change. Materials added each week.
 
 
 ## [Class 1](Lessons/1_IntroDataAndScience):  Intro to Data and Science (October 11)
+
 _Lecture_: 
 * The science in data science
 * Data terminology
