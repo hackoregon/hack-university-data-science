@@ -64,14 +64,14 @@ Schedule subject to change. Materials added each week.
 
 ## [Class 1](Lessons/1_IntroDataAndScience):  Intro to Data and Science (October 11)
 
-_Lecture_: 
+__Lecture__: 
 * The science in data science
 * Data terminology
 * Project proposal guidelines
-_Exercise_:
-* Lesson1\_Graphs.ipynb
-1. Verify your python distribution was installed correctly.
-1. Learn to make a variety of graph types using matplotlib.
+
+__Exercise__: Lesson1\_Graphs.ipynb
+* Verify your python distribution was installed correctly.
+* Learn to make a variety of graph types using matplotlib.
 
 
 ## [Class 2](Lessons/2_Probability): Probability Part 1 (October 13
