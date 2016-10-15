@@ -62,9 +62,21 @@ Hack University will issue badges on [Badgr](http://info.badgr.io/) for all stud
 Schedule subject to change. Materials added each week.
 
 
-## Week 1-a: Intro to Data and Science (October 11)
+## [Class 1](Lessons/1_IntroDataAndScience):  Intro to Data and Science (October 11)
+    Lecture: 
+    * The science in data science
+    * Data terminology
+    * Project proposal guidelines
 
-## Week 1-b and 2-a: Probability (October 13 & 18)
+    Exercises:
+    * Lesson2\_Probability.ipynb
+    The goals of the exercises are to:
+    1. Familiarize yourself with common probability distributions, and learn to simulate data by drawing random samples from these distributions using the numpy.random library.
+    1. Learn to make graphs using matplotlib.
+    1. Investigate the evolution of a stochastic system using a random walk with symmetric and assymetric probabilities.
+
+## [Class 2](Lessons/2_Probability): Probability Part 1 (October 13
+    
 
 ## Weeks 2b-3: Statistical Inference (October 20, 25, & November 1)
 
