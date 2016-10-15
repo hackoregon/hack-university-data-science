@@ -30,7 +30,7 @@ Schedule subject to change
 
 
 
-## [Week 1](https://github.com/hackoregon/hack-university-data-science/tree/master/Lessons/1_IntroDataAndScience): Intro to Data and Science (Feb 9)
+## [Week 1](Lessons/1_IntroDataAndScience): Intro to Data and Science (Feb 9)
 
 1. In-class activity using IPython notebooks:
     * Make graphs
@@ -54,7 +54,7 @@ Schedule subject to change
 1. Describe the graph(s) you created. Identify the explanatory/response or dependent/independent variables. Did you discover any trends, expected or unexpected?
 
 
-## [Week 2](https://github.com/hackoregon/hack-university-data-science/tree/master/Lessons/2_CleaningTransformingData): Cleaning data (Feb 16)
+## [Week 2](Lessons/2_CleaningTransformingData): Cleaning data (Feb 16)
 
 1. In-class activity using IPython notebooks:
     * Cleaning data
@@ -62,7 +62,7 @@ Schedule subject to change
 1. Prepare your data for the exploratory phase of your course project.
 
 
-## [Week 3](https://github.com/hackoregon/hack-university-data-science/tree/master/Lessons/3_ExploratoryAnalysis): Exploratory Analysis (Feb 23)
+## [Week 3](Lessons/3_ExploratoryAnalysis): Exploratory Analysis (Feb 23)
 
 1. In-class activity using IPython notebooks:
     * Common functions
@@ -78,7 +78,7 @@ Schedule subject to change
 1. Look for non-linear relationships in your data that might be described by a common function, and apply a transformation to create a linear relationship.
 
 
-## [Week 4](https://github.com/hackoregon/hack-university-data-science/tree/master/Lessons/4_Probability): Probability (March 1)
+## [Week 4](Lessons/4_Probability): Probability (March 1)
 
 1. In-class activity using IPython notebooks:
     * Simulations of stochastic processes, visualizing distributions
@@ -88,7 +88,7 @@ Schedule subject to change
     * Calculate mean, median, and standard deviation of the variables.
 
 
-## [Week 5](https://github.com/hackoregon/hack-university-data-science/tree/master/Lessons/5_StatisticalInference): Statistical Inference (March 8)
+## [Week 5](Lessons/5_StatisticalInference): Statistical Inference (March 8)
 
 1. In-class activity using IPython notebooks:
     * Statistical Inference
@@ -98,7 +98,7 @@ Schedule subject to change
     * What population does this generalize to?
 
 
-## [Week 6](https://github.com/hackoregon/hack-university-data-science/tree/master/Lessons/6_LinearRegression): Linear Regression (March 15)
+## [Week 6](Lessons/6_LinearRegression): Linear Regression (March 15)
 
 1. In-class activity using IPython notebooks:
     * Linear Regression
@@ -106,7 +106,7 @@ Schedule subject to change
 1. Use linear regression to make a model of at least one variable in your data.
 
 
-## [Week 7](https://github.com/hackoregon/hack-university-data-science/tree/master/Lessons/7_LinearAlgebra): Vectors, Matrices, and Gradient Descent (March 22)
+## [Week 7](Lessons/7_LinearAlgebra): Vectors, Matrices, and Gradient Descent (March 22)
 
 1. In-class activity using IPython notebooks:
     * Matrix multiplication
@@ -115,7 +115,7 @@ Schedule subject to change
 1. Prepare a 10 minute presentation showing the highlights from your exploratory analysis, and any conclusions you may have from applying statistical inference and/or regression on your data.
 
 
-## [Week 8](https://github.com/hackoregon/hack-university-data-science/tree/master/Lessons/8_CourseWrapup): Present Projects (March 29)
+## [Week 8](Lessons/8_CourseWrapup): Present Projects (March 29)
 
 1. In-class activity:
     * Present your exploratory findings, and results if you have them.
@@ -123,8 +123,8 @@ Schedule subject to change
 
 1. Implement any suggestions received at your presentation.
 
-# [Student Projects](https://github.com/hackoregon/hack-university-data-science/tree/master/Projects)
+# [Student Projects](../../Projects)
 
-[Portland Crime by Neighborhood, 2004-1014](https://github.com/hackoregon/hack-university-data-science/tree/master/Projects/nkanderson-pdxcrime), by [Nicole Anderson](https://github.com/nicolekanderson) 
+[Portland Crime by Neighborhood, 2004-1014](../../Projects/2016-winter/nkanderson-pdxcrime), by [Nicole Anderson](https://github.com/nicolekanderson) 
 
 Crime incident data from the City of Portland Police Bureau, with a typical record including detailed time and location information. The data has been aggregated over time by neighborhood, and a simple d3 bar chart is included in the root of the project at index.html
