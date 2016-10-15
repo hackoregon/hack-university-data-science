@@ -63,20 +63,25 @@ Schedule subject to change. Materials added each week.
 
 
 ## [Class 1](Lessons/1_IntroDataAndScience):  Intro to Data and Science (October 11)
-    Lecture: 
-    * The science in data science
-    * Data terminology
-    * Project proposal guidelines
+_Lecture_: 
+* The science in data science
+* Data terminology
+* Project proposal guidelines
+_Exercise_:
+* Lesson1\_Graphs.ipynb
+1. Verify your python distribution was installed correctly.
+1. Learn to make a variety of graph types using matplotlib.
 
+
+## [Class 2](Lessons/2_Probability): Probability Part 1 (October 13
+    
     Exercises:
-    * Lesson2\_Probability.ipynb
+    * Lesson2Probability.ipynb
     The goals of the exercises are to:
     1. Familiarize yourself with common probability distributions, and learn to simulate data by drawing random samples from these distributions using the numpy.random library.
     1. Learn to make graphs using matplotlib.
     1. Investigate the evolution of a stochastic system using a random walk with symmetric and assymetric probabilities.
 
-## [Class 2](Lessons/2_Probability): Probability Part 1 (October 13
-    
 
 ## Weeks 2b-3: Statistical Inference (October 20, 25, & November 1)
 
