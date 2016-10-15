@@ -74,7 +74,7 @@ __Exercise__: Lesson1\_Graphs.ipynb
 * Learn to make a variety of graph types using matplotlib.
 
 
-## [Class 2](Lessons/2_Probability): Probability Part 1 (October 13
+## [Class 2](Lessons/2_Probability): Probability Part 1 (October 13)
    
 __Lecture__:
 * Defining probability
@@ -82,13 +82,27 @@ __Lecture__:
 * Descriptive statistics
 * Common probability distributions
 
-__Exercise__: Lesson2Probability.ipynb
+__Exercise__: Lesson2\_Probability.ipynb
 * Familiarize yourself with common probability distributions, and learn to simulate data by drawing random samples from these distributions using the numpy.random library.
 * Learn to make graphs using matplotlib.
 * Investigate the evolution of a stochastic system using a random walk with symmetric and assymetric probabilities.
 
+__Exercise__: Lesson2\_
 
-## Weeks 2b-3: Statistical Inference (October 20, 25, & November 1)
+
+## [Class 3](Lessons/3_Tools): Tools (October 18)
+
+
+## [Class 4](Lessons/4_Probability): Probability Part 2 (October 18)
+__Lecture__:
+* Central Limit Theorem
+* Correlation
+* Bayes' Theorem
+* Check if a distribution is nearly normal
+
+__Exercie__: Lesson4\_
+
+## Week 3: Statistical Inference (October 20, 25, & November 1)
 
 ## Week 4: Linear Regression (November 1 & 3)
 
