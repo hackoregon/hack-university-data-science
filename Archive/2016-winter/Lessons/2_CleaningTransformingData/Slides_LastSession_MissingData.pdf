@@ -1,0 +1,174 @@
+\input{../packages.tex}
+
+
+%----------------------------------------------------------------------------------------
+%   TITLE PAGE
+%----------------------------------------------------------------------------------------
+
+\title[\color{white}Hack University: Data Science]{Last Session: \\Handling Missing Data} % The short title appears at the bottom of every slide, the full title is only on the title page
+
+\author{Heidi Perry, PhD} % Your name
+\institute[] % Your institution as it will appear on the bottom of every slide, may be shorthand to save space
+{
+Hack University\\ % Your institution for the title page
+\medskip
+\textit{heidiperryphd@gmail.com} % Your email address
+}
+\date{4/3/2016} 
+
+\begin{document}
+
+% Slide
+\begin{frame}
+\titlepage % Print the title page as the first slide
+\end{frame}
+
+\begin{frame}
+\frametitle{Overview} % Table of contents slide, comment this block out to remove it
+\tableofcontents % Throughout your presentation, if you choose to use \section{} and \subsection{} commands, these will automatically be printed on this slide as an overview of your presentation
+\end{frame}
+
+
+
+
+%----------------------------------------------------------------------------------------
+%   PRESENTATION SLIDES
+%----------------------------------------------------------------------------------------
+
+%------------------------------------------------
+\section{Missing Data}
+%------------------------------------------------
+
+\subsection{Mechanisms}
+% Slide
+\begin{frame}{Missing Data Mechanisms}
+    \begin{itemize}
+    \item \textbf{Missing completely at random} (MCAR): The probability of a missing value is independent of all other variables. Ignoring cases with missing MCAR data will not introduce bias into a model.
+    \item \textbf{Missing at random} (MAR): The probability of a missing value is dependent on \textbf{other} variables, but not the value of the missing variable. Ignoring cases with missing MAR data is reasonable, as long as all of the predictors of the missing data are included in the model.
+    \item \textbf{Missing not at random} (MNAR): Missing variables are conditional on other unavailable variables, or even on the value itself. If missingness is not random, it must be modeled explicitly, or the resulting model will include bias.
+    \end{itemize}
+    Handling missing data when the missingness is random is relatively easy, but we can never prove that the missingness is truly random. \\
+\end{frame}
+
+
+\subsection{Strategies to Deal with Missing Data}
+% Slide
+\begin{frame}{Deletion Methods}
+    \begin{itemize}
+    \item Complete case analysis
+        \begin{itemize} 
+        \item Remove all cases missing any variable.
+        \item Advantages: Simple, all analysis comparable (same sample size, same standard error)
+        \item Disadvantages: Reduces statistical power (smaller sample size), doesn't use all available information, bias if missing data not MCAR
+        \end{itemize}
+    \item Available-case analysis
+        \begin{itemize} 
+        \item Remove only cases where variables in current analysis/model are missing.
+        \item Advantages: Keeps as many cases as possible for each analysis, uses all available information
+        \item Disadvantages: Different analysis will use different subsets of the data, so they are not comparable, same bias problem as complete case analysis
+        \end{itemize}
+    \item Nonresponse weighting
+        \begin{itemize}
+        \item Build a model to predict the nonresponse in a variable with missing data using all other variables, use the inverse of predicted probabilities as weights to make the complete-case sample more representative.
+        \item Complicated if more than one variable has missing values.
+        \item Standard errors are erratic if predicted probabilities near 0 or 1.
+        \end{itemize}
+    \end{itemize}
+
+\end{frame}
+
+
+% Slide
+\begin{frame}{Simple Imputation Methods}
+    To retain all the data, rather than delete cases missing variables, we may want to "impute" (i.e. fill-in) the missing values.
+    \begin{itemize}
+    \item Mean imputation
+        \begin{itemize}
+        \item Replace missing values with the mean of the variable.
+        \item Disadvantages: This method underestimates the standard deviation of the variable; it will also diminish correlation estimates.
+        \end{itemize}
+    \item Indicator variables for missingness
+        \begin{itemize}
+        \item For categorical predictors, adding an extra "missing" category is a simple and often useful solution.
+        \item For continuous predictors, this method yields biased coefficient estimates in the model. Adding interaction terms between the response and predictor variables can mitigate the bias, giving similar estimates to the complete-case estimates.
+        \end{itemize}
+    \item Use other information
+        \begin{itemize}
+        \item In some situations it is possible to apply logic to fill in missing variables based on information in other variables. 
+        \end{itemize}
+    \end{itemize}
+\end{frame}
+
+% Slide
+\begin{frame}{Random Imputation Methods}
+    \begin{itemize}
+    \item Simple random imputation
+        \begin{itemize}
+        \item Replace missing values with randomly selected observed values from the same variable
+        \item This approach ignores information available from other variables and therefore does not make much sense.
+        \end{itemize}
+    \item Random regression imputation
+        \begin{itemize}
+        \item Use regression to predict the missing values; add uncertainty back into the imputations by adding an error term (randomly select value from normal distribution with standard deviation given by the prediction error).
+        \end{itemize}
+    \item Hot-deck imputation
+        \begin{itemize}
+        \item Find `similar' cases (similar based on variables that are not missing) and randomly select a value for the missing data from the observed values of similar cases.
+        \end{itemize}
+
+    \end{itemize}
+
+\end{frame}
+
+% Slide
+\begin{frame}{Imputation of Several Missing Variables}
+    \begin{itemize}
+    \item Routine multivariate imputation
+        \begin{itemize}
+        \item Fit a multivariate model to all the variables that have missing values, and generalize the random regression imputation for a single variable.
+        \item These imputations are only as good as the model.
+        \end{itemize}
+    \item Iterative regression imputation
+        \begin{itemize}
+        \item Impute all missing variables using a crude approach (e.g. simple random imputation), then use univariate regression to estimate values from one variable at a time, iterating through all variables with missing values until convergence.
+        \end{itemize}
+    \end{itemize} 
+\end{frame}
+
+
+% Multi-level data: if there is data for individuals (e.g. students) and groups (e.g. schools), imputation may best be done on two separate datasets - one for group level observations and one for individual observations.
+
+% Combining inferences from multiple imputations: to capture the uncertainty in the imputed variables, replace each missing value with several (say, 5) imputed values, run inference on multiple complete datasets, then combine inferences across datasets.
+%------------------------------------------------
+\section{References}
+%------------------------------------------------
+
+% Slide
+\begin{frame}
+\frametitle{References}
+
+\footnotesize{
+\begin{thebibliography}{99} % Beamer does not support BibTeX so references must be inserted manually as below
+
+\bibitem[Gelman, 2006]{gelman} Andrew Gelman \& Jennifer Hill (2006)
+\newblock Data Analysis Using Regression and Multilevel/Hierarchical Models \href{http://www.stat.columbia.edu/~gelman/arm/}{Cambridge University Press}
+
+
+\end{thebibliography}
+}
+
+
+\myheading{Recommended Reading}
+\vspace{10pt}
+\textbf{Resources}\\
+
+Treatment of Missing Data - \href{https://www.uvm.edu/~dhowell/StatPages/Missing_Data/Missing.html}{Part 1}, \href{https://www.uvm.edu/~dhowell/StatPages/Missing_Data/Missing-Part-Two.html}{Part 2}
+
+\href{http://www.mosaicdatascience.com/blogs/data-science-design-pattern-3-handling-null-values/}{Data Science Design Pattern \#3: Handling Null Values}
+
+
+
+
+\end{frame}
+
+\end{document}

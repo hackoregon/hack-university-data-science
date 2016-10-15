@@ -1,12 +1,12 @@
 
 # Python distribution
 
-You will need to install an integrated Python distribution, including packages numpy, matplotlib, and pandas, as well as iPython with notebook. I prefer [Anaconda](https://www.continuum.io/downloads), but [Enthought Canopy](https://www.enthought.com/products/canopy/) should also work if you already have that installed. Make sure to choose Python **3**.
+You will need to install an integrated Python distribution, including packages numpy, matplotlib, and pandas, as well as iPython with notebook. I prefer [Anaconda](https://www.continuum.io/downloads), but [Enthought Canopy](https://www.enthought.com/products/canopy/) should also work.
 
 
 # Packages
 
-A variety of Python-based data analysis tools are listed at [PyData](http://pydata.org/downloads.html). 
+A variety of Python-based data analysis tools are listed at [PyData](http://pydata.org/downloads/). 
 
 For this class install the following:
 * [statsmodels](http://statsmodels.sourceforge.net/): `pip install statsmodels`
