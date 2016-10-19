@@ -1,0 +1,1 @@
+My name is Daniel Phillips. I am a computer engineer turned software developer. I am currently programming in Python, and have experience in Perl, Java and JavaScript. I am focused on data science and have an interest in machine learning.
