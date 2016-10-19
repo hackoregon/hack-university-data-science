@@ -62,11 +62,60 @@ Hack University will issue badges on [Badgr](http://info.badgr.io/) for all stud
 Schedule subject to change. Materials added each week.
 
 
-## Week 1-a: Intro to Data and Science (October 11)
+## [Class 1](Lessons/1_IntroDataAndScience):  Intro to Data and Science (October 11)
 
-## Week 1-b and 2-a: Probability (October 13 & 18)
+__Lecture__: 
+* The science in data science
+* Data terminology
+* Project proposal guidelines
 
-## Weeks 2b-3: Statistical Inference (October 20, 25, & November 1)
+__Exercise__: Lesson1\_Graphs.ipynb
+* Verify your python distribution was installed correctly.
+* Learn to make a variety of graph types using matplotlib.
+
+
+## [Class 2](Lessons/2_Probability): Probability Part 1 (October 13)
+   
+__Lecture__:
+* Defining probability
+* Conditional probability
+* Descriptive statistics
+* Common probability distributions
+
+__Exercise__: Lesson2\_Probability.ipynb
+* Familiarize yourself with common probability distributions, and learn to simulate data by drawing random samples from these distributions using the numpy.random library.
+* Learn to make graphs using matplotlib.
+* Investigate the evolution of a stochastic system using a random walk with symmetric and assymetric probabilities.
+
+__Exercise__: Lesson2\_HotHands.ipynb
+* Think about the effects of independent and dependent events, 
+* Learn how to simulate shooting streaks
+* Compare a simulation to actual data in order to determine if the hot hand phenomenon appears to be real.
+
+
+## [Class 3](Lessons/3_Tools): Tools (October 18)
+
+__Lecture__: 
+* Overview of python packages numpy and pandas
+* IPython and Jupyter notebook
+* Source code management work flow for this course
+* Developing reproducible analysis
+
+__Exercise__: Lesson3\_LoadData.ipynb
+* Learn the basic functionality of a pandas DataFrame - read data from a csv file, select subsets of the data, plot the data.
+
+
+## [Class 4](Lessons/4_Probability): Probability Part 2 (October 18)
+__Lecture__:
+* Central Limit Theorem
+* Assessing the normality of a distribution
+* Correlation
+* Bayes' Theorem
+
+__Exercise__: Lesson4\_Distributions.ipynb
+* Assess the normality of a data set
+
+## Week 3: Statistical Inference (October 20, 25, & November 1)
 
 ## Week 4: Linear Regression (November 1 & 3)
 
