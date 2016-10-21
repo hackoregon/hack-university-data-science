@@ -106,7 +106,7 @@ Schedule subject to change
 1. Use linear regression to make a model of at least one variable in your data.
 
 
-## [Week 7](https://github.com/hackoregon/hack-university-data-science/tree/master/Lessons/7_LinearAlgebra): Vectors, Matrices, and Gradient Descent (March 22)
+## [Week 7](Lessons/7_LinearAlgebra): Vectors, Matrices, and Gradient Descent (March 22)
 
 1. In-class activity using IPython notebooks:
     * Matrix multiplication
@@ -115,7 +115,7 @@ Schedule subject to change
 1. Prepare a 10 minute presentation showing the highlights from your exploratory analysis, and any conclusions you may have from applying statistical inference and/or regression on your data.
 
 
-## [Week 8](https://github.com/hackoregon/hack-university-data-science/tree/master/Lessons/8_CourseWrapup): Present Projects (March 29)
+## [Week 8](Lessons/8_CourseWrapup): Present Projects (March 29)
 
 1. In-class activity:
     * Present your exploratory findings, and results if you have them.
@@ -123,8 +123,8 @@ Schedule subject to change
 
 1. Implement any suggestions received at your presentation.
 
-# [Student Projects](https://github.com/hackoregon/hack-university-data-science/tree/master/Projects)
+# [Student Projects](../../Projects)
 
-[Portland Crime by Neighborhood, 2004-1014](https://github.com/hackoregon/hack-university-data-science/tree/master/Projects/nkanderson-pdxcrime), by [Nicole Anderson](https://github.com/nicolekanderson) 
+[Portland Crime by Neighborhood, 2004-1014](../../Projects/2016-winter/nkanderson-pdxcrime), by [Nicole Anderson](https://github.com/nicolekanderson) 
 
 Crime incident data from the City of Portland Police Bureau, with a typical record including detailed time and location information. The data has been aggregated over time by neighborhood, and a simple d3 bar chart is included in the root of the project at index.html
