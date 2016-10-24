@@ -105,7 +105,7 @@ __Exercise__: Lesson3\_LoadData.ipynb
 * Learn the basic functionality of a pandas DataFrame - read data from a csv file, select subsets of the data, plot the data.
 
 
-## [Class 4](Lessons/4_Probability): Probability Part 2 (October 18)
+## [Class 4](Lessons/4_Probability): Probability Part 2 (October 20)
 __Lecture__:
 * Central Limit Theorem
 * Assessing the normality of a distribution
@@ -115,7 +115,23 @@ __Lecture__:
 __Exercise__: Lesson4\_Distributions.ipynb
 * Assess the normality of a data set
 
-## Week 3: Statistical Inference (October 20, 25, & November 1)
+## [Class 5](Lessons5/StatisticalInference) (October 25)
+__Lecture__:
+* Inference
+* Central Limit Theorem
+* Confidence Intervals
+* Hypothesis testing and p-values
+
+__Exercise__: Lesson5\_StatisticalInference.ipynb
+* Foundations for statistical inference: sampling distributions
+* Confidence intervals
+
+## [Class 6](Lessons6/StatisticalInference) (October 27)
+__Lecture__:
+
+__Exercise__: Lesson6\_StatisticalInference.ipynb
+* Inference for numerical data
+* Inference for categorical data
 
 ## Week 4: Linear Regression (November 1 & 3)
 
