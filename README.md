@@ -115,7 +115,7 @@ __Lecture__:
 __Exercise__: Lesson4\_Distributions.ipynb
 * Assess the normality of a data set
 
-## [Class 5](Lessons5/StatisticalInference) (October 25)
+## [Class 5](Lessons/5_StatisticalInference) (October 25)
 __Lecture__:
 * Inference
 * Central Limit Theorem
@@ -126,7 +126,7 @@ __Exercise__: Lesson5\_StatisticalInference.ipynb
 * Foundations for statistical inference: sampling distributions
 * Confidence intervals
 
-## [Class 6](Lessons6/StatisticalInference) (October 27)
+## [Class 6](Lessons/6_StatisticalInference) (October 27)
 __Lecture__:
 * Inference for Numerical Data
 * Inference for Categorical Data
