@@ -128,6 +128,9 @@ __Exercise__: Lesson5\_StatisticalInference.ipynb
 
 ## [Class 6](Lessons6/StatisticalInference) (October 27)
 __Lecture__:
+* Inference for Numerical Data
+* Inference for Categorical Data
+* Bias
 
 __Exercise__: Lesson6\_StatisticalInference.ipynb
 * Inference for numerical data
