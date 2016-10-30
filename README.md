@@ -115,7 +115,7 @@ __Lecture__:
 __Exercise__: Lesson4\_Distributions.ipynb
 * Assess the normality of a data set
 
-## [Class 5](Lessons/5_StatisticalInference) (October 25)
+## [Class 5](Lessons/5_StatisticalInference): Statistical Inference (October 25)
 __Lecture__:
 * Inference
 * Central Limit Theorem
@@ -126,7 +126,7 @@ __Exercise__: Lesson5\_StatisticalInference.ipynb
 * Foundations for statistical inference: sampling distributions
 * Confidence intervals
 
-## [Class 6](Lessons/6_StatisticalInference) (October 27)
+## [Class 6](Lessons/6_StatisticalInference) Statistical Inference (October 27)
 __Lecture__:
 * Inference for Numerical Data
 * Inference for Categorical Data
@@ -136,7 +136,7 @@ __Exercise__: Lesson6\_StatisticalInference.ipynb
 * Inference for numerical data
 * Inference for categorical data
 
-## [Class 7](Lessons/7_LinearRegression) (November 1)
+## [Class 7](Lessons/7_LinearRegression) Linear Regression (November 1)
 __Lecture__:
 * Fitting a line to data
 * Residuals
@@ -146,7 +146,7 @@ __Lecture__:
 __Exercise__: Lesson7\_LinearRegression.ipynb
 * Examine linear relationships in a data set and choose the best predictor
 
-## [Class 8](Lessons/8_MultipleRegression) (November 3)
+## [Class 8](Lessons/8_MultipleRegression) Multiple Regression (November 3)
 __Lecture__:
 * Categorical explantory variables
 * Introduction to multiple regression
@@ -155,7 +155,7 @@ __Lecture__:
 
 __Exercise__: Lesson8\_MultipleRegression.ipynb
 * Build a regression model with mulitple predictors.
-* Use back-ward selection to choose the best one.
+* Use backward selection to choose the best one.
 
 ## Class 9: Basic Language Model - Guest Lecturer Hobson Lane (November 8)
 
