@@ -136,12 +136,40 @@ __Exercise__: Lesson6\_StatisticalInference.ipynb
 * Inference for numerical data
 * Inference for categorical data
 
-## Week 4: Linear Regression (November 1 & 3)
+## [Class 7](Lessons/7_LinearRegression) (November 1)
+__Lecture__:
+* Fitting a line to data
+* Residuals
+* Interpretation
+* Types of outliers in linear regression
 
-## Week 5-a: Basic Language Model - Guest Lecturer Hobson Lane (November 8)
+__Exercise__: Lesson7\_LinearRegression.ipynb
+* Examine linear relationships in a data set and choose the best predictor
 
-## Week 5-b: Project Proposals; Cleaning Data (November 10)
-Presentation 1: Project Proposals
+## [Class 8](Lessons/8_MultipleRegression) (November 3)
+__Lecture__:
+* Categorical explantory variables
+* Introduction to multiple regression
+* Model selection
+* Checking model conditions using graphs
+
+__Exercise__: Lesson8\_MultipleRegression.ipynb
+* Build a regression model with mulitple predictors.
+* Use back-ward selection to choose the best one.
+
+## Class 9: Basic Language Model - Guest Lecturer Hobson Lane (November 8)
+
+## Class 10: Cleaning Data and Exploratory Analysis (November 10)
+
+__Exercise__: Prepare your data for the exploratory phase of your course project.
+
+* How was the data collected?
+* Describe the data fields in your data set: variable name and type.
+* How is missing data encoded?
+* Load the data into a pandas dataframe.
+
+## Class 11: Project Proposals (November 15)
+__Presentation 1: Project Proposals__
 
     * 2-5 minutes
     * Which Hack Oregon Project?
@@ -150,24 +178,44 @@ Presentation 1: Project Proposals
     * Why is that an interesting question? Who is the audience?
     * Q&A/discussion: answer questions from the class (and ask questions!)
 
-## Week 6: Exploratory Analysis; Start Projects (November 15 & 17)
-Tuesday: Lecture - Principles and tools of exploratory analysis, start working on your projects
+__Exercise__: Exploratory analysis
+* Create histograms of variables in your data set.
+    * Describe the shape of the distribution
+    * Calculate summary statistics
+* Look for trends in the data by graphing variables pair-wise (scatter plots or side-by-sid box plots)
 
-Thursday: Time to work on analysis, then present last half of class.
+## Class 12: Logistic Regression (November 17)
 
-Presentation 2: Exploratory Analysis
+__Exercise__: Exploratory analysis
+* Continue exploratory analysis started Tuesday.
+
+## Class 13: Project updates (November 29)
+__Presentation 2: Exploratory Analysis__
 
     * 5 minutes
     * Show data visualization and explain what you learned from it.
     * Are you still working on your proposed data question, or after the exploratory analysis do you have a new question?
     * Q&A/discussion: answer questions from the class (and ask questions!)
 
-## Week 7-a: K-means Clustering (November 29)
+__Exercise__: Build model
+* Work on the model for your project
 
-## Week 7-b: Introduction to Principal Component Analysis (December 1)
+## Class 14: K-means Clustering (December 1)
 
+__Exercise__: Project time
+* Continue working on your model
+* If time and it makes sense for your data, run a clustering algorithm.
 
-## Week 8: Project Presentation and Discussion (December 6 & 8)
+## Class 15: Advanced Topics: Gradient Descent and Principal Component Analysis (December 6)
+__Lecture__: 
+
+* Gradient descent applied to linear regression
+* Using PCA to reduce dimensionality
+
+__Exercise__: Project time
+* Work on your presentations
+
+## Class 16: Project Presentation and Discussion (December 8)
 Presentation 3: Complete Project Presentation
 
     * 10 minutes
