@@ -159,7 +159,7 @@ __Exercise__: Lesson8\_MultipleRegression.ipynb
 
 ## Class 9: Basic Language Model - Guest Lecturer Hobson Lane (November 8)
 
-## [Class 10](10_PreparingDataAndExploratoryAnalysis/): Preparing Data and Exploratory Analysis (November 10)
+## [Class 10](Lessons/10_PreparingDataAndExploratoryAnalysis/): Preparing Data and Exploratory Analysis (November 10)
 
 __Lecture__:
 
