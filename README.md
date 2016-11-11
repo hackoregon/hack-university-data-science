@@ -159,7 +159,15 @@ __Exercise__: Lesson8\_MultipleRegression.ipynb
 
 ## Class 9: Basic Language Model - Guest Lecturer Hobson Lane (November 8)
 
-## Class 10: Cleaning Data and Exploratory Analysis (November 10)
+## [Class 10](Lessons/10_PreparingDataAndExploratoryAnalysis/): Preparing Data and Exploratory Analysis (November 10)
+
+__Lecture__:
+
+* Getting data
+* Cleaning data
+* Handling missing data
+* Exploratory analysis
+* Transforming data
 
 __Exercise__: Prepare your data for the exploratory phase of your course project.
 
@@ -171,18 +179,18 @@ __Exercise__: Prepare your data for the exploratory phase of your course project
 ## Class 11: Project Proposals (November 15)
 __Presentation 1: Project Proposals__
 
-    * 2-5 minutes
-    * Which Hack Oregon Project?
-    * A brief summary of the data.
-    * What question are you seeking to answer with the data?
-    * Why is that an interesting question? Who is the audience?
-    * Q&A/discussion: answer questions from the class (and ask questions!)
+* 2-5 minutes
+* Which Hack Oregon Project?
+* A brief summary of the data.
+* What question are you seeking to answer with the data?
+* Why is that an interesting question? Who is the audience?
+* Q&A/discussion: answer questions from the class (and ask questions!)
 
 __Exercise__: Exploratory analysis
 * Create histograms of variables in your data set.
     * Describe the shape of the distribution
     * Calculate summary statistics
-* Look for trends in the data by graphing variables pair-wise (scatter plots or side-by-sid box plots)
+* Look for trends in the data by graphing variables pairwise (scatter plots, side-by-side box plots, mosaic plots)
 
 ## Class 12: Logistic Regression (November 17)
 
@@ -192,10 +200,10 @@ __Exercise__: Exploratory analysis
 ## Class 13: Project updates (November 29)
 __Presentation 2: Exploratory Analysis__
 
-    * 5 minutes
-    * Show data visualization and explain what you learned from it.
-    * Are you still working on your proposed data question, or after the exploratory analysis do you have a new question?
-    * Q&A/discussion: answer questions from the class (and ask questions!)
+* 5 minutes
+* Show data visualization and explain what you learned from it.
+* Are you still working on your proposed data question, or after the exploratory analysis do you have a new question?
+* Q&A/discussion: answer questions from the class (and ask questions!)
 
 __Exercise__: Build model
 * Work on the model for your project
