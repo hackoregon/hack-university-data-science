@@ -192,7 +192,11 @@ __Exercise__: Exploratory analysis
     * Calculate summary statistics
 * Look for trends in the data by graphing variables pairwise (scatter plots, side-by-side box plots, mosaic plots)
 
-## Class 12: Logistic Regression (November 17)
+## [Class 12](Lessons/12_LogisticRegression): Logistic Regression (November 17)
+__Lecture__:
+* Logistic Regression, A Genearlized Linear Model
+* A Simple Example - The Donner Party
+* Intrepretation of Coefficients -- Odds Ratio
 
 __Exercise__: Exploratory analysis
 * Continue exploratory analysis started Tuesday.
