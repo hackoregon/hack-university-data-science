@@ -212,7 +212,12 @@ __Presentation 2: Exploratory Analysis__
 __Exercise__: Build model
 * Work on the model for your project
 
-## Class 14: K-means Clustering (December 1)
+## [Class 14](Lessons/14_Clustering): K-means Clustering (December 1)
+
+__Lecture__:
+* Introduction to clustering
+* K-means clustering algorithm
+* Very brief overview of hierarchical clustering
 
 __Exercise__: Project time
 * Continue working on your model
