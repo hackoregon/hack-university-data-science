@@ -2,8 +2,17 @@
 Hack University's [Data Science course](http://www.hackoregon.org/database-cohort), sponsored by [Hack Oregon](http://hackoregon.org)
 
 
+<<<<<<< HEAD
 ### Course Description
 Learn the fundamentals of data preparation and analysis needed to transform data into insight. This course will introduce a broad range of mathematics fundamentals used in data science and machine learning, including probability distributions, statistics, regression, linear algebra, and calculus, with a focus on practical application to real-world data sets. Bring your own data set or contribute to a Hack Oregon project; students will apply methods to a project of their choosing.
+=======
+<<<<<<< HEAD:Archive/2016-winter/README.md
+### Course Description
+Learn the fundamentals of data preparation and analysis needed to transform data into insight. This course will introduce a broad range of mathematics fundamentals used in data science and machine learning, including probability distributions, statistics, regression, linear algebra, and calculus, with a focus on practical application to real-world data sets. Bring your own data set or contribute to a Hack Oregon project; students will apply methods to a project of their choosing.
+=======
+### Description
+>>>>>>> 64b7e92a75fc312ca6081a6fddbd0a0fd15bfc33:README.md
+>>>>>>> Heidi--master
 
 
 ### Course Format
@@ -115,12 +124,23 @@ Schedule subject to change
 1. Prepare a 10 minute presentation showing the highlights from your exploratory analysis, and any conclusions you may have from applying statistical inference and/or regression on your data.
 
 
+<<<<<<< HEAD
 ## [Week 8](Lessons/8_CourseWrapup): Present Projects (March 29)
+=======
+<<<<<<< HEAD:Archive/2016-winter/README.md
+## [Week 8](https://github.com/hackoregon/hack-university-data-science/tree/master/Lessons/8_CourseWrapup): Present Projects (March 29)
+=======
+>>>>>>> 64b7e92a75fc312ca6081a6fddbd0a0fd15bfc33:README.md
+>>>>>>> Heidi--master
 
 1. In-class activity:
     * Present your exploratory findings, and results if you have them.
     * Give feedback to your class-mates.
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD:Archive/2016-winter/README.md
+>>>>>>> Heidi--master
 1. Implement any suggestions received at your presentation.
 
 # [Student Projects](../../Projects)
@@ -128,3 +148,13 @@ Schedule subject to change
 [Portland Crime by Neighborhood, 2004-1014](../../Projects/2016-winter/nkanderson-pdxcrime), by [Nicole Anderson](https://github.com/nicolekanderson) 
 
 Crime incident data from the City of Portland Police Bureau, with a typical record including detailed time and location information. The data has been aggregated over time by neighborhood, and a simple d3 bar chart is included in the root of the project at index.html
+<<<<<<< HEAD
+=======
+=======
+    * 10 minutes
+    * Complete project: data, question, model, results
+    * Prepare for Q&A from the class, and be prepared to take suggestions to improve your project.
+    * Give feedback to your class mates.
+    * Upload your project to GitHub repository.
+>>>>>>> 64b7e92a75fc312ca6081a6fddbd0a0fd15bfc33:README.md
+>>>>>>> Heidi--master
