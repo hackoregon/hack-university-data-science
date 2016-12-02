@@ -1,9 +1,5 @@
 # hack-university-data-science
-<<<<<<< HEAD
 Hack University's [Data Science course](http://www.hackoregon.org/intermediate), sponsored by [Hack Oregon](http://hackoregon.org)
-=======
-Hack University's [Data Science course](http://www.hackoregon.org/database-cohort), sponsored by [Hack Oregon](http://hackoregon.org)
->>>>>>> Heidi--master
 
 # Syllabus
 ## Course Description
@@ -58,11 +54,7 @@ Hack University will issue badges on [Badgr](http://info.badgr.io/) for all stud
 
 
 ## Instructor
-<<<<<<< HEAD
 [Heidi Perry](https://www.linkedin.com/in/heidiperryphd)
-=======
-[Heidi Perry](www.linkedin.com/in/heidiperryphd)
->>>>>>> Heidi--master
 
 
 # Schedule
@@ -70,8 +62,7 @@ Hack University will issue badges on [Badgr](http://info.badgr.io/) for all stud
 Schedule subject to change. Materials added each week.
 
 
-<<<<<<< HEAD
-## [Class 1](Lessons/1_IntroDataAndScience):  Intro to Data and Science (October 11)
+## [Class 1](Lessons/01_IntroDataAndScience):  Intro to Data and Science (October 11)
 
 __Lecture__: 
 * The science in data science
@@ -83,7 +74,7 @@ __Exercise__: Lesson1\_Graphs.ipynb
 * Learn to make a variety of graph types using matplotlib.
 
 
-## [Class 2](Lessons/2_Probability): Probability Part 1 (October 13)
+## [Class 2](Lessons/02_Probability): Probability Part 1 (October 13)
    
 __Lecture__:
 * Defining probability
@@ -102,7 +93,7 @@ __Exercise__: Lesson2\_HotHands.ipynb
 * Compare a simulation to actual data in order to determine if the hot hand phenomenon appears to be real.
 
 
-## [Class 3](Lessons/3_Tools): Tools (October 18)
+## [Class 3](Lessons/03_Tools): Tools (October 18)
 
 __Lecture__: 
 * Overview of python packages numpy and pandas
@@ -114,7 +105,7 @@ __Exercise__: Lesson3\_LoadData.ipynb
 * Learn the basic functionality of a pandas DataFrame - read data from a csv file, select subsets of the data, plot the data.
 
 
-## [Class 4](Lessons/4_Probability): Probability Part 2 (October 20)
+## [Class 4](Lessons/04_Probability): Probability Part 2 (October 20)
 __Lecture__:
 * Central Limit Theorem
 * Assessing the normality of a distribution
@@ -124,7 +115,7 @@ __Lecture__:
 __Exercise__: Lesson4\_Distributions.ipynb
 * Assess the normality of a data set
 
-## [Class 5](Lessons/5_StatisticalInference): Statistical Inference (October 25)
+## [Class 5](Lessons/05_StatisticalInference): Statistical Inference (October 25)
 __Lecture__:
 * Inference
 * Central Limit Theorem
@@ -135,7 +126,7 @@ __Exercise__: Lesson5\_StatisticalInference.ipynb
 * Foundations for statistical inference: sampling distributions
 * Confidence intervals
 
-## [Class 6](Lessons/6_StatisticalInference) Statistical Inference (October 27)
+## [Class 6](Lessons/06_StatisticalInference) Statistical Inference (October 27)
 __Lecture__:
 * Inference for Numerical Data
 * Inference for Categorical Data
@@ -145,7 +136,7 @@ __Exercise__: Lesson6\_StatisticalInference.ipynb
 * Inference for numerical data
 * Inference for categorical data
 
-## [Class 7](Lessons/7_LinearRegression) Linear Regression (November 1)
+## [Class 7](Lessons/07_LinearRegression) Linear Regression (November 1)
 __Lecture__:
 * Fitting a line to data
 * Residuals
@@ -155,7 +146,7 @@ __Lecture__:
 __Exercise__: Lesson7\_LinearRegression.ipynb
 * Examine linear relationships in a data set and choose the best predictor
 
-## [Class 8](Lessons/8_MultipleRegression) Multiple Regression (November 3)
+## [Class 8](Lessons/08_MultipleRegression) Multiple Regression (November 3)
 __Lecture__:
 * Categorical explantory variables
 * Introduction to multiple regression
@@ -242,46 +233,6 @@ __Exercise__: Project time
 * Work on your presentations
 
 ## Class 16: Project Presentation and Discussion (December 8)
-=======
-## Week 1-a: Intro to Data and Science (October 11)
-
-## Week 1-b and 2-a: Probability (October 13 & 18)
-
-## Weeks 2b-3: Statistical Inference (October 20, 25, & November 1)
-
-## Week 4: Linear Regression (November 1 & 3)
-
-## Week 5-a: Basic Language Model - Guest Lecturer Hobson Lane (November 8)
-
-## Week 5-b: Project Proposals; Cleaning Data (November 10)
-Presentation 1: Project Proposals
-
-    * 2-5 minutes
-    * Which Hack Oregon Project?
-    * A brief summary of the data.
-    * What question are you seeking to answer with the data?
-    * Why is that an interesting question? Who is the audience?
-    * Q&A/discussion: answer questions from the class (and ask questions!)
-
-## Week 6: Exploratory Analysis; Start Projects (November 15 & 17)
-Tuesday: Lecture - Principles and tools of exploratory analysis, start working on your projects
-
-Thursday: Time to work on analysis, then present last half of class.
-
-Presentation 2: Exploratory Analysis
-
-    * 5 minutes
-    * Show data visualization and explain what you learned from it.
-    * Are you still working on your proposed data question, or after the exploratory analysis do you have a new question?
-    * Q&A/discussion: answer questions from the class (and ask questions!)
-
-## Week 7-a: K-means Clustering (November 22)
-
-## Week 7-b: Introduction to Principal Component Analysis (November 24)
-
-
-## Week 8: Project Presentation and Discussion (December 6 & 8)
->>>>>>> Heidi--master
 Presentation 3: Complete Project Presentation
 
     * 10 minutes
