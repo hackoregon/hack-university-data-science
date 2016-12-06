@@ -116,7 +116,6 @@ Schedule subject to change
 
 
 ## [Week 8](Lessons/8_CourseWrapup): Present Projects (March 29)
-
 1. In-class activity:
     * Present your exploratory findings, and results if you have them.
     * Give feedback to your class-mates.
@@ -128,3 +127,8 @@ Schedule subject to change
 [Portland Crime by Neighborhood, 2004-1014](../../Projects/2016-winter/nkanderson-pdxcrime), by [Nicole Anderson](https://github.com/nicolekanderson) 
 
 Crime incident data from the City of Portland Police Bureau, with a typical record including detailed time and location information. The data has been aggregated over time by neighborhood, and a simple d3 bar chart is included in the root of the project at index.html
+    * 10 minutes
+    * Complete project: data, question, model, results
+    * Prepare for Q&A from the class, and be prepared to take suggestions to improve your project.
+    * Give feedback to your class mates.
+    * Upload your project to GitHub repository.
