@@ -223,7 +223,7 @@ __Exercise__: Project time
 * Continue working on your model
 * If time and it makes sense for your data, run a clustering algorithm.
 
-## Class 15: Advanced Topics: Gradient Descent and Principal Component Analysis (December 6)
+## [Class 15](Lessons/15_GradientDescentAndPCA): Advanced Topics: Gradient Descent and Principal Component Analysis (December 6)
 __Lecture__: 
 
 * Gradient descent applied to linear regression
